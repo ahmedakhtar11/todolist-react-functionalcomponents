@@ -1,0 +1,16 @@
+body {
+  max-width: fit-content;
+  padding: 42px;
+  margin: auto;
+}
+.Todos {
+  border-radius: 3px;
+  border: 1px dashed black;
+  margin: 20px;
+}
+
+.Todo {
+  border-radius: 3px;
+  border: 2px solid black;
+  margin: 20px;
+}
